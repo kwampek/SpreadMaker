@@ -1,0 +1,3 @@
+SafeOpenPage to every exchange
+map[string]bool contains extra symbols
+need to add delay between to coins/chains fetches

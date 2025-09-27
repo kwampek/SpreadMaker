@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      # Монтируем папку с базой данных
+      - ./internal/bot/tbot:/app/internal/bot/tbot
+      # (Опционально) Монтируем исходный код для разработки
+      # - .:/app
+    environment:
+      # Убедитесь, что приложение использует правильный путь
+      - DB_PATH=internal/bot/tbot/base.db
+    working_dir: /app

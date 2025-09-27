@@ -1,0 +1,654 @@
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KADENA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  LTONETWORK
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ELROND EGOLD
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  APTOS
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  VICTION
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BANDPROTOCOL
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BITCOIN SV
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  RADIX DLT
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  FANTOM
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  INTERNET COMPUTER
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  GNOSIS
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  THOR
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  CROSSFI
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  DOGECHAIN
+ASCENDEX                UnsupportedChain:  MANTLE
+ASCENDEX                UnsupportedChain:  ULTRA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ZEROCASH
+ASCENDEX                UnsupportedChain:  LITECOIN
+ASCENDEX                UnsupportedChain:  ELROND EGOLD
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  AKASH
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  DUSK
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ECASH
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  MWC NETWORK
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  VANARCHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  RAVEN
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  CARDANO
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  VECHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BDTCOIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  GO20
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  PERSISTENCE
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ETHEREUM CLASSIC
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  IOST CHAIN
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  GNOSIS
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  CHIA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  ASSETHUB-POLKADOT
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  OMNI
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  FANTOM
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  BITCOIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ELYSIUM
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  FILECOIN
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  TERNOA
+ASCENDEX                UnsupportedChain:  MCOIN NETWORK
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  THORCHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  APTOS
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BITCOIN ABC
+ASCENDEX                UnsupportedChain:  ZKFAIR
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  GALACHAIN
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  CONCORDIUM
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ZKSYNC
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  VICTION
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  CARDANO
+ASCENDEX                UnsupportedChain:  TARAXA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  ETHPOW
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SELFCHAIN
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  ENJIN
+ASCENDEX                UnsupportedChain:  KADENA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  FAX
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ELROND EGOLD
+ASCENDEX                UnsupportedChain:  GALAXY
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  C0BAN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BCH-SLP
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  RIPPLE
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  ROUTER
+ASCENDEX                UnsupportedChain:  KASPA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  OSMOSIS
+ASCENDEX                UnsupportedChain:  BIFROST-POLKADOT
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  NILLION
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  FIOPROTOCOL
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SENTINEL
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  NEO N3
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  HATHOR
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  CHIHUAHUA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  CARDANO
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  CELESTIA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  TEZOS
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLKADOT
+ASCENDEX                UnsupportedChain:  ASSETHUB-POLKADOT
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  GNOSIS
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  NERVOS
+ASCENDEX                UnsupportedChain:  CARDANO
+ASCENDEX                UnsupportedChain:  CASPER
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BITCLOUT
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ONTOLOGY
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ALGORAND
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  CARDANO
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  CARDANO
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  PI NETWORK
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  NOSTR
+ASCENDEX                UnsupportedChain:  JUNKCOIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  ZILLIQA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  ARC20(ATOMICALS)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  DECENTR
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  STELLAR
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  CARDANO
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  AVALANCHE C CHAIN
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ONELEDGER
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  GNOSIS
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  METISDAO
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  RUNES
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  ELECTRAPROTOCOL
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  HARMONY
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  ONTOLOGY
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  KASPA-KRC20
+ASCENDEX                UnsupportedChain:  POLYGON
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  BEP20 (BSC)
+ASCENDEX                UnsupportedChain:  SOLANA
+ASCENDEX                UnsupportedChain:  DINGOCOIN
