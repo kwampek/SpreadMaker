@@ -80,17 +80,15 @@ go cmd/main.py
 
 SPREADMAKER2/
 ├── cmd/                     # Точка входа
-│   └── mydebug/
-│       └── mydebug.go       # Отладочный скрипт
-│   └── main.go              # Основной запуск бота
-│   └── .env                 # Конфигурация окружения
+│   ├── mydebug/
+│   │   └── mydebug.go       # Отладочный скрипт
+│   ├── main.go              # Основной запуск бота
+│   ├── .env                 # Конфигурация окружения
 │   └── unchains.txt         # Список блокчейнов/сетей
-
 ├── data/                    # Данные проекта
 ├── docs/                    # Документация
 │   └── another/
 ├── db/                      # Работа с базой данных
-
 ├── internal/                # Основная бизнес-логика
 │   ├── bot/                 # Логика телеграм и арбитражного бота
 │   │   ├── coins/           # Работа с монетами
@@ -101,12 +99,10 @@ SPREADMAKER2/
 │   │   ├── chains.go
 │   │   ├── poll.go
 │   │   └── telegram_bot.go
-│   │
 │   ├── exchange/            # Работа с биржами
 │   │   ├── cex/             # Централизованные биржи
 │   │   ├── common/          # Общие интерфейсы
 │   │   └── dex/             # Децентрализованные биржи
-│   │
 │   └── util/                # Вспомогательные утилиты
 │       ├── bitset.go
 │       ├── client.go
@@ -114,7 +110,6 @@ SPREADMAKER2/
 │       ├── map_keys.go
 │       ├── safeclient.go
 │       └── wrapper.go
-
 ├── problems.txt             # Заметки/известные проблемы
 ├── docker-compose.yml       # Конфигурация Docker Compose
 ├── Dockerfile               # Docker сборка
